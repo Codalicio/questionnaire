@@ -8,7 +8,7 @@
     - p
 
 # Links : 
-* Github : 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github : https://github.com/Codalicio/questionnaire
+* Github Pages : https://codalicio.github.io/questionnaire/
+* Netlify : https://glittery-dango-2189fc.netlify.app/
+* Vercel : https://questionnaire-navy.vercel.app/
